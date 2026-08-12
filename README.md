@@ -1,13 +1,17 @@
 # meu-projeto-backend
 
 # Rode estes comandos para preparar o ambiete.
+```
 npm init -y
 npm i -D typescript @types/node tsx
 npx tsc --init
+```
 
 # Rode estes comandos para preparar o framework Express:
+```
 npm install express
 npm install -D @types/express
+```
 
 # crie uma pasta e o arquivo .ts: src/app.ts
 
