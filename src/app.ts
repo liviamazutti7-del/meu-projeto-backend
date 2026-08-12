@@ -14,5 +14,5 @@ const PORT: number = 8081;
 // Inicializa o servidor utilizando a porta definida
 // O método listen() faz o servidor começar a "escutar" requisições HTTP
 app.listen(PORT, () => {
-  console.log(`Servidor rodando em http://localhost:${PORT}`);
+    console.log(`Servidor rodando em http://localhost:${PORT}`);
 });
