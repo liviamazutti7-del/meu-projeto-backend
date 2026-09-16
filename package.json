@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "module": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/liviamazutti7-del/meu-projeto-backend/issues"
   },
